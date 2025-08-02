@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Personal Portfolio Website",
+    "imageSrc": "portfolio.png",
+    "description": "A fully responsive developer portfolio built using React, Vite, and CSS Modules. The website showcases professional skills, featured projects, and contact details. Designed with smooth animations and a modern UI, optimized for both desktop and mobile viewing.",
+    "skills": ["React", "CSS Modules", "JavaScript", "Vite"],
+    "demo": "https://bhuvibhuvan.netlify.app/#projects",
+    "source": "https://github.com/BhuviBro/Portfolio.git"
+  },
+  {
+    "title": "Notes-Making App",
+    "imageSrc": "notes_app.png",
+    "description": "A full-stack MERN notes-taking web application that allows users to create, update, delete, and search notes. Features include user authentication, responsive UI, and persistent storage using MongoDB. Hosted on Render.",
+    "skills": ["MongoDB", "Express.js", "React", "Node.js"],
+    "demo": "https://mern-notes-making-app.onrender.com/",
+    "source": "https://github.com/BhuviBro/MERN-Notes_Making_App.git"
+  },
+  {
+    "title": "Pity Python Snake Game",
+    "imageSrc": "pitypython.png",
+    "description": "A fun web-based snake game developed using vanilla JavaScript, HTML, and CSS. Includes sound effects, score tracking, and increasing difficulty as the game progresses. Designed with a retro pixel theme for a nostalgic experience.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://pitypython.netlify.app/",
+    "source": "https://github.com/BhuviBro/Snake_Game.git"
+  },
+  {
+    "title": "Smart Fetal Growth Prediction",
+    "imageSrc": "project.png",
+    "description": "Led a team to develop a ML-based system for monitoring and predicting fetal growth patterns over time.",
+    "skills": ["Flask", "Python", "Pandas"]
+  },
+  {
+    "title": "Student Project Management",
+    "imageSrc": "project.png",
+    "description": "A web platform for managing student mini and major projects, with user role tracking and project database monitoring.",
+    "skills": ["HTML/CSS/JS", "PHP", "MySQL"]
+  },
+  {
+    "title": "Automatic Question Paper Generator",
+    "imageSrc": "project.png",
+    "description": "A system to auto-generate question papers based on subject input and difficulty levels.",
+    "skills": ["Java", "Spring Boot", "MySQL"]
+  }
+]

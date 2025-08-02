@@ -1,0 +1,11 @@
+[
+  { "title": "HTML", "image": "html.png" },
+  { "title": "CSS", "image": "css.png" },
+  { "title": "JavaScript", "image": "js.png" },
+  { "title": "MongoDB", "image": "mongodb.png" },
+  { "title": "Express", "image": "express.png" },
+  { "title": "Node", "image": "node.png" },
+  { "title": "React", "image": "react.png" },
+  { "title": "MySQL", "image": "mysql.png" },
+  { "title": "Canva", "image": "canva.png" }
+]
