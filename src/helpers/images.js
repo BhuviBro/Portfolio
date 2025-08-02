@@ -5,7 +5,7 @@ const images = {
 
   aboutImage: new URL('../assets/about/aboutImage.png', import.meta.url).href,
   cursorIcon: new URL('../assets/about/cursorIcon.png', import.meta.url).href,
-  serverIcon: new URL('../assets/about/ServerIcon.png', import.meta.url).href,
+  serverIcon: new URL('../assets/about/serverIcon.png', import.meta.url).href,
   uiIcon: new URL('../assets/about/uiIcon.png', import.meta.url).href,
   
   emailIcon: new URL('../assets/contact/emailIcon.png',import.meta.url).href,
