@@ -12,10 +12,14 @@ function ProjectCard({ projects: { title, imageSrc, description, skills, demo, s
                     <li key={id} className={styles.skill}>{temp}</li>
                 ))}
             </ul>
-            <div className={styles.links}>
-                <a  className={styles.link} href={demo} target="_blank" rel="noopener noreferrer">Demo</a>
-                <a className={styles.link} href={source} target="_blank" rel="noopener noreferrer">Source</a>
-            </div>
+            {(demo && source) &&
+                <div className={styles.links}>
+
+                    <a className={styles.link} href={demo} target="_blank" rel="noopener noreferrer">Demo</a>
+                    <a className={styles.link} href={source} target="_blank" rel="noopener noreferrer">Source</a>
+
+                </div>
+            }
         </div>
     );
 }
