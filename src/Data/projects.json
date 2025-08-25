@@ -5,7 +5,7 @@
     "description": "A real-time chat application built with the MERN stack, enabling one-to-one messaging, user authentication, and online status tracking.",
     "skills": ["MongoDB", "Express.js", "React", "Node.js", "Socket.io"],
     "demo": "Under Progress",
-    "source": "https://github.com/BhuviBro/Chat-App-Convo.git"
+    "source": "https://github.com/BhuviBro/MERN-Chatter_App.git"
   },
 
   {
@@ -21,7 +21,7 @@
     "imageSrc": "portfolio.png",
     "description": "A fully responsive developer portfolio built using React, Vite, and CSS Modules. The website showcases professional skills, featured projects, and contact details. Designed with smooth animations and a modern UI, optimized for both desktop and mobile viewing.",
     "skills": ["React", "CSS Modules", "JavaScript", "Vite"],
-    "demo": "https://bhuvibhuvan.netlify.app/#projects",
+    "demo": " ",
     "source": "https://github.com/BhuviBro/Portfolio.git"
   },
   {
@@ -37,7 +37,8 @@
     "imageSrc": "fetal.png",
     "description": "Led a team to develop a ML-based system for monitoring and predicting fetal growth patterns over time.",
     "skills": ["Flask", "Python", "Pandas"],
-    "demo":"https://fetal-birth-weight-app.onrender.com"
+    "demo":"https://fetal-birth-weight-app.onrender.com",
+    "source":"null"
   },
   {
     "title": "Student Project Management",

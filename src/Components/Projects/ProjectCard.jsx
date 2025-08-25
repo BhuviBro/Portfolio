@@ -13,12 +13,13 @@ function ProjectCard({ projects: { title, imageSrc, description, skills, demo, s
                 ))}
             </ul>
             {(demo && source) &&
-                <div className={styles.links}>
+             (   <div className={styles.links}>
 
                     <a className={styles.link} href={demo} target="_blank" rel="noopener noreferrer">Demo</a>
                     <a className={styles.link} href={source} target="_blank" rel="noopener noreferrer">Source</a>
 
-                </div>
+                </div>)
+
             }
         </div>
     );
