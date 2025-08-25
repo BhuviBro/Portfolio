@@ -7,5 +7,8 @@
   { "title": "Node", "image": "node.png" },
   { "title": "React", "image": "react.png" },
   { "title": "MySQL", "image": "mysql.png" },
-  { "title": "Canva", "image": "canva.png" }
+  { "title": "Canva", "image": "canva.png" },
+  { "title": "Java", "image": "java.png" },
+  { "title": "Rest API", "image": "restapi.png" },
+  { "title": "DSA", "image": "dsa.png" }
 ]

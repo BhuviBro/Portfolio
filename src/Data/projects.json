@@ -1,12 +1,13 @@
 [
   {
-    "title": "Personal Portfolio Website",
-    "imageSrc": "portfolio.png",
-    "description": "A fully responsive developer portfolio built using React, Vite, and CSS Modules. The website showcases professional skills, featured projects, and contact details. Designed with smooth animations and a modern UI, optimized for both desktop and mobile viewing.",
-    "skills": ["React", "CSS Modules", "JavaScript", "Vite"],
-    "demo": "https://bhuvibhuvan.netlify.app/#projects",
-    "source": "https://github.com/BhuviBro/Portfolio.git"
+    "title": "Chat-App Convo",
+    "imageSrc": "chat-app.png",
+    "description": "A real-time chat application built with the MERN stack, enabling one-to-one messaging, user authentication, and online status tracking. Features include a modern responsive UI, secure backend with JWT authentication, and deployment on Vercel/Render.",
+    "skills": ["MongoDB", "Express.js", "React", "Node.js", "Socket.io"],
+    "demo": "Under Progress",
+    "source": "https://github.com/BhuviBro/Chat-App-Convo.git"
   },
+
   {
     "title": "Notes-Making App",
     "imageSrc": "notes_app.png",
@@ -14,6 +15,14 @@
     "skills": ["MongoDB", "Express.js", "React", "Node.js"],
     "demo": "https://mern-notes-making-app.onrender.com/",
     "source": "https://github.com/BhuviBro/MERN-Notes_Making_App.git"
+  },
+  {
+    "title": "Personal Portfolio Website",
+    "imageSrc": "portfolio.png",
+    "description": "A fully responsive developer portfolio built using React, Vite, and CSS Modules. The website showcases professional skills, featured projects, and contact details. Designed with smooth animations and a modern UI, optimized for both desktop and mobile viewing.",
+    "skills": ["React", "CSS Modules", "JavaScript", "Vite"],
+    "demo": "https://bhuvibhuvan.netlify.app/#projects",
+    "source": "https://github.com/BhuviBro/Portfolio.git"
   },
   {
     "title": "Pity Python Snake Game",
@@ -25,20 +34,15 @@
   },
   {
     "title": "Smart Fetal Growth Prediction",
-    "imageSrc": "project.png",
+    "imageSrc": "fetal.png",
     "description": "Led a team to develop a ML-based system for monitoring and predicting fetal growth patterns over time.",
-    "skills": ["Flask", "Python", "Pandas"]
+    "skills": ["Flask", "Python", "Pandas"],
+    "demo":"https://fetal-birth-weight-app.onrender.com"
   },
   {
     "title": "Student Project Management",
-    "imageSrc": "project.png",
+    "imageSrc": "studentProject.png",
     "description": "A web platform for managing student mini and major projects, with user role tracking and project database monitoring.",
     "skills": ["HTML/CSS/JS", "PHP", "MySQL"]
-  },
-  {
-    "title": "Automatic Question Paper Generator",
-    "imageSrc": "project.png",
-    "description": "A system to auto-generate question papers based on subject input and difficulty levels.",
-    "skills": ["Java", "Spring Boot", "MySQL"]
   }
 ]
