@@ -2,7 +2,7 @@
   {
     "title": "Chat-App Convo",
     "imageSrc": "chat-app.png",
-    "description": "A real-time chat application built with the MERN stack, enabling one-to-one messaging, user authentication, and online status tracking. Features include a modern responsive UI, secure backend with JWT authentication, and deployment on Vercel/Render.",
+    "description": "A real-time chat application built with the MERN stack, enabling one-to-one messaging, user authentication, and online status tracking.",
     "skills": ["MongoDB", "Express.js", "React", "Node.js", "Socket.io"],
     "demo": "Under Progress",
     "source": "https://github.com/BhuviBro/Chat-App-Convo.git"
